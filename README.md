@@ -1,0 +1,1 @@
+This is a voting app coded in Java, where clients can vote for their favorite cars, which are stored manually in the database, or they can add the car they want themselves, and vote for the car they insert, and they are also saved to the database. It also has a GUI for the user experience and making it easy for the user to interact with the app.
